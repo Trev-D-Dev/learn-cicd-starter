@@ -21,7 +21,7 @@ func TestGetAPIKey(t *testing.T) {
 		{
 			name:      "Valid token w/ no ApiKey",
 			keyString: "Key THISISAKEY",
-			wantErr:   false,
+			wantErr:   true,
 			wantKey:   "",
 		},
 		{
