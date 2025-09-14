@@ -1,4 +1,3 @@
-
 ![Tests status](https://github.com/Trev-D-Dev/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
